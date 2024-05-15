@@ -9,8 +9,8 @@ plugins {
 }
 buildscript{
     dependencies {
-        classpath("dev.icerock.moko:resources-generator:0.23.0")
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10")
+        classpath("dev.icerock.moko:resources-generator:0.24.0-beta-3")
+        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.23")
     }
 
 }
